@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'firstproject';
+  name ="angular"
+
+  framework={name:"angular",language:"typescript",rating:4.5}
 }
